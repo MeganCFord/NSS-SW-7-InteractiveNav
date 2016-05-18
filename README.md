@@ -24,7 +24,7 @@ NSS Front-End Milestone 1 (Static Web) Exercise 7:
 
 ``` 
 git clone https://github.com/MeganCFord/NSS-SW-7-InteractiveNav.git
-cd 5-selectors
+cd 7-interactive-nav
 open index.html
 ```
 
