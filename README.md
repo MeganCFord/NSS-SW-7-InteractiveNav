@@ -18,6 +18,11 @@ NSS Front-End Milestone 1 (Static Web) Exercise 7:
 [Requirements For Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/2-the-static-web/exercises/SW_CSS_INTERACTIVE_NAVIGATION.md)
 
 
+NSS Front-End Milestone 1 (Static Web) Challenge 1: 
+
+
+[Requirements For Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/2-the-static-web/challenges/SW_INDIVIDUAL_CHALLENGES.md#challenge-1)
+
 
 ## Install
 
